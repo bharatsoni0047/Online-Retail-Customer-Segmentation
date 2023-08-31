@@ -1,9 +1,9 @@
 # Online-Retail-Customer-Segmentation
 ![image](https://github.com/bharatsoni0047/Online-Retail-Customer-Segmentation/assets/111848240/e8596d37-8fe2-4cee-ab59-36892a7c4a5e)
 
-
-
 • Customer segmentation is the process of separating a company's customers into groups based on their shared characteristics. The purpose of customer segmentation is to determine how to relate to customers in each category in order to optimize each customer's value to the company.
+
+The goal of this job is to use cluster analysis to identify important consumer categories in a transnational data set that encompasses all transactions for a UK-based and registered non-store internet retailer over a specific time period
 
 OVERVIEW-
 
