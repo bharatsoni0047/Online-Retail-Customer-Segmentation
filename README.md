@@ -1,10 +1,11 @@
 # Online-Retail-Customer-Segmentation
-![image](https://github.com/bharatsoni0047/Online-Retail-Customer-Segmentation/assets/111848240/71ffb983-6562-40e7-a9d2-3e5df7e490d0)
+![image](https://github.com/bharatsoni0047/Online-Retail-Customer-Segmentation/assets/111848240/e8596d37-8fe2-4cee-ab59-36892a7c4a5e)
+
 
 
 • Customer segmentation is the process of separating a company's customers into groups based on their shared characteristics. The purpose of customer segmentation is to determine how to relate to customers in each category in order to optimize each customer's value to the company.
 
-Overview
+OVERVIEW-
 
 • Feature summary
 
